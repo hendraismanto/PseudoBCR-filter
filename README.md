@@ -16,7 +16,7 @@ Pyhton 3.7 and above
 - hmmer=3.3.2
 ```
 
-### Usage
+### Instalation and Usage
 
 * Install miniconda3
     * `wget https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh`

@@ -1,0 +1,13 @@
+---
+name: pseudo-filter
+channels:
+- bioconda
+- conda-forge
+- defaults
+dependencies:
+- biopython=1.78
+- cd-hit=4.8.1
+- python=3.7.3
+- abnumber=0.2.3
+- hmmer=3.3.2
+
