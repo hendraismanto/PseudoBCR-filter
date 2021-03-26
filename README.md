@@ -1,4 +1,4 @@
-# MIXCR Output to Repertoire Builder Input
+# BCR sequence filter
 
 Get the filtered full length BCR sequence.
 Sequences are filtered by 100% CDRs similarity.
